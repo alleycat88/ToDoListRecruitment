@@ -1,0 +1,4 @@
+F:\DeveloperWorks\RecruitmentDeveloperMei\ToDoListRecruitment\obj\Debug\netcoreapp2.2\ToDoListRecruitment.csprojAssemblyReference.cache
+F:\DeveloperWorks\RecruitmentDeveloperMei\ToDoListRecruitment\obj\Debug\netcoreapp2.2\ToDoListRecruitment.csproj.CoreCompileInputs.cache
+F:\DeveloperWorks\RecruitmentDeveloperMei\ToDoListRecruitment\obj\Debug\netcoreapp2.2\ToDoListRecruitment.AssemblyInfoInputs.cache
+F:\DeveloperWorks\RecruitmentDeveloperMei\ToDoListRecruitment\obj\Debug\netcoreapp2.2\ToDoListRecruitment.AssemblyInfo.cs

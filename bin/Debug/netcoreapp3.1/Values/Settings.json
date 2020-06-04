@@ -1,0 +1,12 @@
+// TESTING SERVER
+{
+    "port": 5951,
+    "apiUrl": "http://localhost:5951",
+    "database": {
+      "host": "localhost",
+      "port": "3306",
+      "name": "ToDoListRecruitment",
+      "uid": "root",
+      "pwd": ""
+    }
+  }
